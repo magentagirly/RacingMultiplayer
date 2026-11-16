@@ -1,0 +1,18 @@
+{
+    "name": "PlaymodeTest",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9137b7d4c1af0ef4ea85f7698c73d4dd",
+        "GUID:1491147abca9d7d4bb7105af628b223e",
+        "GUID:27619889b8ba8c24980f49ee34dbb44a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
